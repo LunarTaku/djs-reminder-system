@@ -17,3 +17,4 @@ A simple reminder command for discord.js v14 using node-scedule and javascript!
 
 ## Preview
 
+![video](https://github.com/LunarTaku/djs-reminder-system/blob/main/reminder-sys-preview.mov)
